@@ -48,9 +48,9 @@ header > h1 {
 }
 
 header > p {
-    max-width: 500px;
+    max-width: 550px;
     margin: auto;
-    margin-bottom: 20px;
+    margin-bottom: 25px;
     padding: 0px 10px;
     font-family: var(--fonte-padrao);
     font-size: 1.2em;
